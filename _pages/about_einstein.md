@@ -1,4 +1,6 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm Thomas, a PhD candidate at the University of Cambridge researching quantum light sensors. I'm supervised by [Prof. Louise Hirst](https://www.phy.cam.ac.uk/profile/prof-louise-hirst/) from Cambridge and [Mark Stevenson](https://scholar.google.com/citations?user=DR9KmDwAAAAJ&hl=en&oi=ao) from Toshiba, with whom I work to develop sensors for next-gen quantum technologies.
+
+Previously, I compeleted my MPhys degree at the University of Bath, graduating with First-class honours. 
 
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 

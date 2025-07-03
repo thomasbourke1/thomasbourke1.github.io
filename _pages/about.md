@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD candidate in Quantum Optics and Semiconductor Devices
+subtitle: Sensors, quantum optics, semiconductor devices, quantum tech
 
 profile:
   align: right
@@ -31,4 +31,4 @@ I'm Thomas, a PhD candidate at the University of Cambridge researching quantum l
 
 Previously, I compeleted my MPhys degree at the University of Bath, graduating with First-class honours. 
 
-If you would like to get in touch, please contact me at **thomas [DOT] bourke1 [AT] outlook.com**.
+If you would like to get in touch, please contact me at **thomas [DOT] bourke1 [AT] outlook [DOT] com**.

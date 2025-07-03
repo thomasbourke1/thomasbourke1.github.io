@@ -1,12 +1,18 @@
 ---
-layout: cv
+layout: none
 permalink: /cv/
 title: curriculum vitae
 nav: true
 nav_order: 5
-cv_pdf: CV_Thomas_Bourke.pdf # you can also use external links here
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
-toc:
-  sidebar: left
-redirect_to: /assets/pdf/CV_Thomas_Bourke.pdf
 ---
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="refresh" content="0; url=/assets/pdf/CV_Thomas_Bourke.pdf" />
+    <link rel="canonical" href="/assets/pdf/CV_Thomas_Bourke.pdf" />
+  </head>
+  <body>
+    <p>If you are not redirected, <a href="/assets/pdf/CV_Thomas_Bourke.pdf">click here to view/download the CV</a>.</p>
+  </body>
+</html>

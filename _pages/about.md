@@ -29,6 +29,11 @@ latest_posts:
 
 I'm Thomas, a PhD candidate at the University of Cambridge researching quantum light sensors. I'm supervised by [Prof. Louise Hirst](https://www.phy.cam.ac.uk/profile/prof-louise-hirst/) from Cambridge and [Mark Stevenson](https://scholar.google.com/citations?user=DR9KmDwAAAAJ&hl=en&oi=ao) from [Toshiba](https://www.toshiba.eu/quantum/), with whom I work to develop sensors for next-gen quantum technologies.
 
+My current affiliations include:
+ - Toshiba Research Europe - Quantum Devices team
+ - Quantum Enabled Position, Navigation and Timing Hub ([QEPNT](https://www.qepnt.org/))
+ - Cambridge Nanoscience Doctoral Training Centre ([NanoDTC](https://www.nanodtc.cam.ac.uk/))
+
 Previously, I compeleted my MPhys degree at the University of Bath, graduating with First-class honours. 
 
 If you would like to get in touch, please contact me at **thomas [DOT] bourke1 [AT] outlook [DOT] com**.

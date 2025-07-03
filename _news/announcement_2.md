@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Finishing University of Bath MPhys
-date: 2025-07-03 
-inline: false
+title: Graduated from University of Bath MPhys
+date: 2025-07-17 
+inline: true
 related_posts: false
 ---
 
-Placeholder post for graduating from the University of Bath
+Graduated from University of Bath MPhys with First-class Honours

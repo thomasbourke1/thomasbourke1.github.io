@@ -88,11 +88,11 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
-        id: 'social-bluesky',
-        title: 'Bluesky',
+        id: 'social-linkedin',
+        title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://bsky.app/profile/tgb314.co.uk# your bluesky URL", "_blank");
+          window.open("https://www.linkedin.com/in/thomas-george-bourke", "_blank");
         },
       },{
         id: 'social-github',
@@ -102,11 +102,11 @@ ninja.data = [{
           window.open("https://github.com/thomasbourke1", "_blank");
         },
       },{
-        id: 'social-linkedin',
-        title: 'LinkedIn',
+        id: 'social-bluesky',
+        title: 'Bluesky',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/thomas-george-bourke", "_blank");
+          window.open("https://bsky.app/profile/tgb314.co.uk your bluesky URL", "_blank");
         },
       },{
       id: 'light-theme',

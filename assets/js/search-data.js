@@ -95,6 +95,13 @@ ninja.data = [{
           window.open("https://bsky.app/profile/tgb314.co.uk# your bluesky URL", "_blank");
         },
       },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/thomasbourke1", "_blank");
+        },
+      },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',

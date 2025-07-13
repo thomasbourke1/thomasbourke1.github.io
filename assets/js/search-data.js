@@ -39,7 +39,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-attended-national-quantum-computing-centre-hackathon-2024",
+            },},{id: "news-attended-careers-in-quantum-event-at-university-of-bristol",
+          title: 'Attended Careers in Quantum event at University of Bristol',
+          description: "",
+          section: "News",},{id: "news-attended-oxford-undergraduate-physics-summit",
+          title: 'Attended Oxford Undergraduate Physics Summit',
+          description: "",
+          section: "News",},{id: "news-attended-physoc-astrophysics-hackathon-in-bath",
+          title: 'Attended PhySoc astrophysics hackathon in Bath',
+          description: "",
+          section: "News",},{id: "news-attended-national-quantum-computing-centre-hackathon-2024",
           title: 'Attended National Quantum Computing Centre Hackathon 2024',
           description: "",
           section: "News",handler: () => {

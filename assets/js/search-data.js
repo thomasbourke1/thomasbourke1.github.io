@@ -59,7 +59,12 @@ ninja.data = [{
           section: "News",},{id: "news-graduated-from-university-of-bath-mphys-with-first-class-honours",
           title: 'Graduated from University of Bath MPhys with First-class Honours',
           description: "",
-          section: "News",},{id: "projects-project-1",
+          section: "News",},{id: "news-attended-national-quantum-computing-centre-hackathon-2025",
+          title: 'Attended National Quantum Computing Centre Hackathon 2025',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/nqcc_2025/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {

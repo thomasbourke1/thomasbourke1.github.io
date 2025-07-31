@@ -128,7 +128,7 @@ ninja.data = [{
         title: 'Bluesky',
         section: 'Socials',
         handler: () => {
-          window.open("https://bsky.app/profile/tgb314.co.uk your bluesky URL", "_blank");
+          window.open("https://bsky.app/profile/tgb314.co.uk", "_blank");
         },
       },{
       id: 'light-theme',

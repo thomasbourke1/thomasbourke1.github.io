@@ -28,7 +28,7 @@ latest_posts:
 I'm Thomas, a first-year PhD candidate at the University of Cambridge researching **quantum light sensors**. I'm supervised by [Prof. Louise Hirst](https://www.phy.cam.ac.uk/profile/prof-louise-hirst/) from Cambridge and [Mark Stevenson](https://scholar.google.com/citations?user=DR9KmDwAAAAJ&hl=en&oi=ao) from Toshiba, with whom I work to develop sensors for next-gen quantum technologies. I am a Darwin College member and am co-funded by Toshiba and the Cambridge Nanoscience DTC.
 
 My current affiliations include:
- - Toshiba Research Europe - [Quantum Devices team](https://www.toshiba.eu/quantum/)
+ - Toshiba Research Europe - [Quantum Devices team](https://www.toshiba.eu/cambridge-research-laboratory/quantum-information-group/)
  - Quantum Enabled Position, Navigation and Timing Hub ([QEPNT](https://www.qepnt.org/))
  - Cambridge Nanoscience Doctoral Training Centre ([NanoDTC](https://www.nanodtc.cam.ac.uk/))
 
